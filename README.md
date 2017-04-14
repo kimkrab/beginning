@@ -1,5 +1,4 @@
 # beginning
-First one
 
 Hi dude
 
